@@ -130,10 +130,7 @@ initialize("ICAN Token", "ICAN", initialSupply)
 
 ## 📬 Contact & Links
 
-- 🌐 Website: [https://icanx.exchange](https://icanx.exchange)  
-- 📘 Whitepaper: [https://icanx.exchange/whitepaper](https://icanx.exchange/whitepaper)  
-- 💬 Telegram: [https://t.me/icanxofficial](https://t.me/icanxofficial)  
-- 🐦 Twitter: [https://twitter.com/icanxexchange](https://twitter.com/icanxexchange)  
+- 🌐 Website: [https://icanx.exchange](https://icanx.io)  
 - 📄 License: MIT  
 
 ---
