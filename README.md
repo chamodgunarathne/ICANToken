@@ -1,4 +1,9 @@
-# 🪙 ICAN Token (iCanX Exchange Token)
+<p align="center">
+  <img src="https://ipfs.io/ipfs/bafkreihd6mjmkoczbz5gpd6u3d2slubw5vv4exbvmp6j5c4rbbvefmrblu" alt="ICAN Token Logo" width="160"/>
+</p>
+
+<h1 align="center">ICAN Token (iCanX Exchange Token)</h1>
+
 
 **Network:** Ethereum / BNB Chain  
 **Standard:** ERC-20 (Upgradeable, Secured)  
